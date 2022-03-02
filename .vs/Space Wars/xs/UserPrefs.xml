@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{ED72E0DC-42B9-CD29-F30A-EAE7371EF9D1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Level.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScoreDisplay.cs" Line="13" Column="9" />
+      <File FileName="Assets/Scripts/GameSession.cs" />
+      <File FileName="Assets/Scripts/HealthDisplay.cs" />
+      <File FileName="Assets/Scripts/Player.cs" />
+      <File FileName="Assets/Scripts/Level.cs" Line="44" Column="5" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" />
+      <File FileName="Assets/Scripts/Spinner.cs" Line="12" Column="60" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Space Wars" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Level.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="973eb4f5-aead-4e5b-a3e1-fdfea85bb4d4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
